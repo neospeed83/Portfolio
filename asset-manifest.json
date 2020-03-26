@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a1b7b015.chunk.css",
-    "main.js": "/portfolio/static/js/main.a9177c98.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a9177c98.chunk.js.map",
-    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
-    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/css/2.510409cd.chunk.css": "/portfolio/static/css/2.510409cd.chunk.css",
-    "static/js/2.0b3d58c5.chunk.js": "/portfolio/static/js/2.0b3d58c5.chunk.js",
-    "static/js/2.0b3d58c5.chunk.js.map": "/portfolio/static/js/2.0b3d58c5.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.95ac10049d3efb40eaee07c8980adac8.js": "/portfolio/precache-manifest.95ac10049d3efb40eaee07c8980adac8.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/portfolio/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.a1b7b015.chunk.css.map": "/portfolio/static/css/main.a1b7b015.chunk.css.map",
-    "static/media/devgrub.png": "/portfolio/static/media/devgrub.bf79b675.png",
-    "static/media/evverest.png": "/portfolio/static/media/evverest.d4711a4b.png",
-    "static/media/youtube.png": "/portfolio/static/media/youtube.a22eb66d.png"
+    "main.css": "/static/css/main.a1b7b015.chunk.css",
+    "main.js": "/static/js/main.79eec78d.chunk.js",
+    "main.js.map": "/static/js/main.79eec78d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.510409cd.chunk.css": "/static/css/2.510409cd.chunk.css",
+    "static/js/2.0b3d58c5.chunk.js": "/static/js/2.0b3d58c5.chunk.js",
+    "static/js/2.0b3d58c5.chunk.js.map": "/static/js/2.0b3d58c5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.57c922f51e3880685e5423dad6becb2e.js": "/precache-manifest.57c922f51e3880685e5423dad6becb2e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.a1b7b015.chunk.css.map": "/static/css/main.a1b7b015.chunk.css.map",
+    "static/media/devgrub.png": "/static/media/devgrub.bf79b675.png",
+    "static/media/evverest.png": "/static/media/evverest.d4711a4b.png",
+    "static/media/youtube.png": "/static/media/youtube.a22eb66d.png"
   }
 }
